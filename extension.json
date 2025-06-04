@@ -1,0 +1,13 @@
+{
+  "name": "simplefmt",
+  "apiVersion": "1.0.0",
+  "author": "Sergio Paulo Sider",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "simplefmt": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
